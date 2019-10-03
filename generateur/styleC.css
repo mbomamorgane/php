@@ -1,0 +1,43 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #222;
+    background: #f8f8f8;
+    font-weight: 400;
+    font-family: Poppins;
+}
+main{
+ margin: 10% 0% 0% 28%;
+ MARGIN-LEFT: 14%;
+ margin-top: 3%;
+ width: 900px;
+ background: #FFFF;
+ border-radius: 21PX;
+ box-shadow: 0px 15px 16.83px 0.17px rgba(0, 0, 0, 0.05);
+ 
+}
+
+.text{
+    MARGIN-TOP: 8%;
+    color: #999;
+    MARGIN-LEFT: 6%;
+    
+}
+.objet{
+    margin-left: 10%;
+}
+.cordonéecole{
+margin-left: 63%;
+}
+
+.lettre{
+    margin-left: 16%;
+
+}
+.signatur{
+    margin-left: 19%;
+    margin-bottom: 5%;
+
+}
